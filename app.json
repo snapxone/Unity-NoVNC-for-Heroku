@@ -1,0 +1,11 @@
+{
+    "name": "XDRP Docker Ubuntu",
+    "description": "Docker",
+    "logo": "https://telegra.ph/file/2360336321c95fc2ce7d4.png",
+    "keywords": [
+      "docker",
+      "ubuntu",
+      "xdrp"
+    ],
+    "stack": "container"
+}
